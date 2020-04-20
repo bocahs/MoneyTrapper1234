@@ -117,7 +117,7 @@ body {
 }
 
 .allbuttons a {
-  transition: all ease-out 0.3s;
+  transition: all ease-out 0.2s;
 }
 
 .allbuttons a:hover {
@@ -130,7 +130,7 @@ body {
 }
 
 .selected {
-  color: #DBA9A3;
+  color: #dba9a3;
   transform: scale(1.05);
   text-decoration: none;
 }
