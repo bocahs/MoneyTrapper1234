@@ -5,12 +5,12 @@ const Sort2 = () => {
   let currentLocation = useLocation();
   return (
     <Fragment>
-      <div className='allbuttons'>
+      <div className="allbuttons">
         <span>
           <Link
             exact={true}
             className={currentLocation.pathname === '/' ? 'selected' : 'button'}
-            to='/'
+            to="/"
           >
             All Sites
           </Link>
@@ -20,7 +20,7 @@ const Sort2 = () => {
             className={
               currentLocation.pathname === '/earn' ? 'selected' : 'button'
             }
-            to='/earn'
+            to="/earn"
           >
             Earn Sites
           </Link>
@@ -31,7 +31,7 @@ const Sort2 = () => {
             className={
               currentLocation.pathname === '/gambling' ? 'selected' : 'button'
             }
-            to='/gambling'
+            to="/gambling"
           >
             Gambling Sites
           </Link>
@@ -42,7 +42,7 @@ const Sort2 = () => {
             className={
               currentLocation.pathname === '/cashback' ? 'selected' : 'button'
             }
-            to='/cashback'
+            to="/cashback"
           >
             Cashback Apps
           </Link>
@@ -53,7 +53,7 @@ const Sort2 = () => {
             className={
               currentLocation.pathname === '/wallet' ? 'selected' : 'button'
             }
-            to='/wallet'
+            to="/wallet"
           >
             Virtual Wallets
           </Link>

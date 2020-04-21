@@ -1,9 +1,9 @@
 body {
   background-color: white;
   font-family: 'Arial Black', Gadget, sans-serif;
-  background-image: url('purplebackground.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-image: url('purplebackground.png');
+  background-repeat: repeat-y;
+  background-attachment: scroll;
   color: white;
   text-align: center;
 }
