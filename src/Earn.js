@@ -4,9 +4,9 @@ import Fade from 'react-reveal/Fade';
 const Earn = () => {
   return (
     <Fragment>
-      <div className='ref-links'>
-        <a href='https://gain.gg/r/kill' target='_blank'>
-          <img src={require('./img/ref/44.png')} width={240} alt='' />
+      <div className="ref-links">
+        <a href="https://gain.gg/r/kill" target="_blank">
+          <img src={require('./img/ref/44.png')} width={240} alt="" />
         </a>
         <p>
           Gain.GG
@@ -17,9 +17,9 @@ const Earn = () => {
         </p>
       </div>
 
-      <div className='ref-links'>
-        <a href='https://gamermine.com/r/shacob/' target='_blank'>
-          <img src={require('./img/ref/41.png')} width={240} alt='' />
+      <div className="ref-links">
+        <a href="https://gamermine.com/r/shacob/" target="_blank">
+          <img src={require('./img/ref/41.png')} width={240} alt="" />
         </a>
         <p>
           GamerMine
@@ -30,9 +30,9 @@ const Earn = () => {
         </p>
       </div>
 
-      <div className='ref-links'>
-        <a href='https://roobet.com/?ref=bocahs' target='_blank'>
-          <img src={require('./img/ref/43.png')} width={240} alt='' />
+      <div className="ref-links">
+        <a href="https://roobet.com/?ref=bocahs" target="_blank">
+          <img src={require('./img/ref/43.png')} width={240} alt="" />
         </a>
         <p>
           RooBet
@@ -43,9 +43,22 @@ const Earn = () => {
         </p>
       </div>
 
-      <div className='ref-links'>
-        <a href='https://premium.gg2u.org?referrer=shacob' target='_blank'>
-          <img src={require('./img/ref/8.png')} width={240} alt='' />
+      <div className="ref-links">
+        <a href="https://freeskins.com/r/shacob" target="_blank">
+          <img src={require('./img/ref/9.png')} width={240} alt="" />
+        </a>
+        <p>
+          FreeSkins
+          <br />
+          Free $0.10
+          <br />
+          Referral Link
+        </p>
+      </div>
+
+      <div className="ref-links">
+        <a href="https://premium.gg2u.org?referrer=shacob" target="_blank">
+          <img src={require('./img/ref/8.png')} width={240} alt="" />
         </a>
         <p>
           GG2U

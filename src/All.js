@@ -43,6 +43,19 @@ const All = () => {
       </div>
 
       <div className="ref-links">
+        <a href="https://freeskins.com/r/shacob" target="_blank">
+          <img src={require('./img/ref/9.png')} width={240} alt="" />
+        </a>
+        <p>
+          FreeSkins
+          <br />
+          Free $0.10
+          <br />
+          Referral Link
+        </p>
+      </div>
+
+      <div className="ref-links">
         <a href="https://premium.gg2u.org?referrer=shacob" target="_blank">
           <img src={require('./img/ref/8.png')} width={240} alt="" />
         </a>
