@@ -121,6 +121,10 @@
     transform: scale(1.05);
     text-decoration: none;
   }
+
+  #header {
+    margin-top: 20px;
+  }
 }
 @media all and (min-width: 0px) and (max-width: 720px) {
   body {
