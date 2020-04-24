@@ -70,15 +70,15 @@ const Earn = () => {
       </div>
 
       <div className="ref-links">
-        <a href="https://freeskins.com/r/shacob" target="_blank">
+        <a href="https://www.rewardxp.com/join/1001524" target="_blank">
           <img src={require('./img/ref/10.png')} width={240} alt="" />
         </a>
         <p>
-          FreeSkins
+          RewardXP
           <br />
-          Free $0.10
+          Free Balance
           <br />
-          Code: Shacob
+          Referral Link
         </p>
       </div>
     </Fragment>

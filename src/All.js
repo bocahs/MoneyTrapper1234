@@ -44,7 +44,7 @@ const All = () => {
 
       <div className="ref-links">
         <a href="https://freeskins.com/r/shacob" target="_blank">
-          <img src={require('./img/ref/10.png')} width={240} alt="" />
+          <img src={require('./img/ref/9.png')} width={240} alt="" />
         </a>
         <p>
           FreeSkins
@@ -70,7 +70,7 @@ const All = () => {
 
       <div className="ref-links">
         <a href="https://www.rewardxp.com/join/1001524" target="_blank">
-          <img src={require('./img/ref/8.png')} width={240} alt="" />
+          <img src={require('./img/ref/10.png')} width={240} alt="" />
         </a>
         <p>
           RewardXP
@@ -188,6 +188,7 @@ const All = () => {
         </p>
       </div>
 
+      {/*
       <div className="ref-links">
         <a href="http://farmskins.com/ref-Shacob" target="_blank">
           <img src={require('./img/ref/20.png')} width={240} alt="" />
@@ -200,6 +201,7 @@ const All = () => {
           Code: Shacob
         </p>
       </div>
+      */}
 
       <div className="ref-links">
         <a href="https://www.csgolive.com/home" target="_blank">
