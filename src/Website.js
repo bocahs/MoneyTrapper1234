@@ -5,16 +5,15 @@ import Sort2 from './Sort2';
 const Website = () => {
   return (
     <div>
-      <div id='header'>
-        <a href='http://MoneyTrapper.com'>
+      <div id="header">
+        <a href="http://MoneyTrapper.com">
           <img
             src={require('./img/ref/MoneyTrapper1.png')}
-            width='900px'
-            alt='Money Trapper Banner'
+            alt="Money Trapper Banner"
           />
         </a>
       </div>
-      <div className='info'>
+      <div className="info">
         <p>
           All the best sites and apps for making money.
           <br />

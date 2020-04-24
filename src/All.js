@@ -44,14 +44,14 @@ const All = () => {
 
       <div className="ref-links">
         <a href="https://freeskins.com/r/shacob" target="_blank">
-          <img src={require('./img/ref/9.png')} width={240} alt="" />
+          <img src={require('./img/ref/10.png')} width={240} alt="" />
         </a>
         <p>
           FreeSkins
           <br />
           Free $0.10
           <br />
-          Referral Link
+          Code: Shacob
         </p>
       </div>
 
@@ -63,6 +63,19 @@ const All = () => {
           GG2U
           <br />
           Free $1.00
+          <br />
+          Referral Link
+        </p>
+      </div>
+
+      <div className="ref-links">
+        <a href="https://www.rewardxp.com/join/1001524" target="_blank">
+          <img src={require('./img/ref/8.png')} width={240} alt="" />
+        </a>
+        <p>
+          RewardXP
+          <br />
+          Free Balance
           <br />
           Referral Link
         </p>

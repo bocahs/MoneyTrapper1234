@@ -125,6 +125,10 @@
   #header {
     margin-top: 20px;
   }
+
+  #header img {
+    width: auto;
+  }
 }
 @media all and (min-width: 0px) and (max-width: 720px) {
   body {
@@ -136,6 +140,7 @@
     color: white;
     text-align: center;
     font-size: 12px;
+    background-size: 720px;
   }
 
   .ref-links {
@@ -244,5 +249,9 @@
     color: #dba9a3;
     transform: scale(1.05);
     text-decoration: none;
+  }
+
+  #header img {
+    width: 480px;
   }
 }

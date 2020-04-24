@@ -68,6 +68,19 @@ const Earn = () => {
           Referral Link
         </p>
       </div>
+
+      <div className="ref-links">
+        <a href="https://freeskins.com/r/shacob" target="_blank">
+          <img src={require('./img/ref/10.png')} width={240} alt="" />
+        </a>
+        <p>
+          FreeSkins
+          <br />
+          Free $0.10
+          <br />
+          Code: Shacob
+        </p>
+      </div>
     </Fragment>
   );
 };
