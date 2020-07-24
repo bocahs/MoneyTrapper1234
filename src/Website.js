@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Sort2 from './Sort2';
+import Slide from 'react-reveal/Slide';
 
 const Website = () => {
   return (
